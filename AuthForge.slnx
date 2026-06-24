@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AuthForge.Api/AuthForge.Api.csproj" />
+    <Project Path="src/Authforge.Application/AuthForge.Application.csproj" />
+    <Project Path="src/Authforge.Domain/AuthForge.Domain.csproj" />
+    <Project Path="src/AuthForge.Infrastructure/AuthForge.Infrastructure.csproj" />
+  </Folder>
+</Solution>
